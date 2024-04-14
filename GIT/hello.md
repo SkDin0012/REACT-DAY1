@@ -79,6 +79,12 @@
 
 6) git push -u origin main
 
+## All Commands:
+
+* the value of command .
+
+
+
 
 
 
