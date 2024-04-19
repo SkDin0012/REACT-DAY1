@@ -79,12 +79,29 @@
 
 6) git push -u origin main
 
-## All Commands:
+# Normal command:
 
-* the value of command .
+* `Git log
 
+* Git revert command
 
+* Git reset --hard HEAD~1
 
+* Git pull
+
+* Git push  -u origin master
+
+* Git branch sub
+
+* Git checkout sub
+
+* Git commit -m 'removed scenario 2'
+
+* Git merg sub
+
+* Git branch -d sub
+
+* Git branch`
 
 
 
